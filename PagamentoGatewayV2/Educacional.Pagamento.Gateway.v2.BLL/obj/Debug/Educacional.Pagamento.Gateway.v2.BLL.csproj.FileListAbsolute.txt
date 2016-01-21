@@ -8,3 +8,13 @@ C:\fiap-tfs\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\obj\Debug\Ed
 C:\fiap-tfs\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\obj\Debug\Educacional.Pagamento.Gateway.v2.BLL.pdb
 C:\fiap-tfs\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\bin\Debug\Educacional.Pagamento.Gateway.v2.MOD.dll
 C:\fiap-tfs\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\bin\Debug\Educacional.Pagamento.Gateway.v2.MOD.pdb
+C:\projetos\braspag-payment\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\bin\Debug\Educacional.Pagamento.Gateway.v2.BLL.dll
+C:\projetos\braspag-payment\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\bin\Debug\Educacional.Pagamento.Gateway.v2.BLL.pdb
+C:\projetos\braspag-payment\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\bin\Debug\Educacional.Pagamento.Gateway.v2.MOD.dll
+C:\projetos\braspag-payment\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\projetos\braspag-payment\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\projetos\braspag-payment\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\bin\Debug\Educacional.Pagamento.Gateway.v2.MOD.pdb
+C:\projetos\braspag-payment\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\bin\Debug\System.Net.Http.Formatting.xml
+C:\projetos\braspag-payment\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\obj\Debug\Educacional.Pagamento.Gateway.v2.BLL.csprojResolveAssemblyReference.cache
+C:\projetos\braspag-payment\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\obj\Debug\Educacional.Pagamento.Gateway.v2.BLL.dll
+C:\projetos\braspag-payment\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.BLL\obj\Debug\Educacional.Pagamento.Gateway.v2.BLL.pdb
