@@ -1,0 +1,4 @@
+C:\fiap-tfs\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.DAL\bin\Debug\Educacional.Pagamento.Gateway.v2.DAL.dll
+C:\fiap-tfs\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.DAL\bin\Debug\Educacional.Pagamento.Gateway.v2.DAL.pdb
+C:\fiap-tfs\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.DAL\obj\Debug\Educacional.Pagamento.Gateway.v2.DAL.dll
+C:\fiap-tfs\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.DAL\obj\Debug\Educacional.Pagamento.Gateway.v2.DAL.pdb

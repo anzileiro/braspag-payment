@@ -1,0 +1,5 @@
+C:\fiap-tfs\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.MOD\bin\Debug\Educacional.Pagamento.Gateway.v2.MOD.dll
+C:\fiap-tfs\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.MOD\bin\Debug\Educacional.Pagamento.Gateway.v2.MOD.pdb
+C:\fiap-tfs\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.MOD\obj\Debug\Educacional.Pagamento.Gateway.v2.MOD.csprojResolveAssemblyReference.cache
+C:\fiap-tfs\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.MOD\obj\Debug\Educacional.Pagamento.Gateway.v2.MOD.dll
+C:\fiap-tfs\PagamentoGatewayV2\Educacional.Pagamento.Gateway.v2.MOD\obj\Debug\Educacional.Pagamento.Gateway.v2.MOD.pdb

@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <noscript>
+        <meta http-equiv="refresh" content="0;url=http://localhost:48560/javascript/enabled">
+    </noscript>
+    @RenderSection("css", false)
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+    @RenderSection("js", false)
+</body>
+</html>
